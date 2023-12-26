@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Promoted to Vice President - Blockchain Innovation! :sparkles: :smile:
+Blockchain Developer at AIW Works Pvt. Ltd.
