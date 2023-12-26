@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: profiles
 permalink: /people/
 title: people
@@ -23,4 +23,4 @@ profiles:
     more_info: >
       
       <p>Andhra Pradesh, India</p>
----
+--- -->
