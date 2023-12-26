@@ -14,8 +14,7 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      # <p>555 your office number</p>
-      # <p>123 your address street</p>
+      
       <p>Andhra Pradesh, India</p>
   - align: left
     image: teja_11.png
