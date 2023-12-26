@@ -2,31 +2,21 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Teja Kolla
     - name: Date of Birth
-      value: 14th March 1879
+      value: 25th May 2002
     - name: Languages
-      value: English, German
+      value: English,Telugu, Hindi, Japanese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Technology
+      institution: Manav Rachna University, Faridabad, India
+      year: 2019 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - CS grad with honors, specializing in Data Science & Machine Learning
+        - Completed relevant coursework - : Python Programming, Data Structures and Algorithms, Supervised Learning, Unsupervised Learning & Neural Networks, Database Management System, Computer Architecture & Organization, Advanced Neural Networks, Natural Language Processing, Computer Vision, Big Data
 
 - title: Experience
   type: time_table
