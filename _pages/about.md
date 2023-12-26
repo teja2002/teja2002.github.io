@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Vice President - Blockchain Innovation. <a href='https://www.aiw.works/'>AIW Works Pvt. Ltd.</a>.
 
 profile:
   align: right
