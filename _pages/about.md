@@ -6,7 +6,7 @@ subtitle: Vice President - Blockchain Innovation. <a href='https://www.aiw.works
 
 profile:
   align: right
-  image: teja_11.png
+  image: PROFESSIONAL.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     
