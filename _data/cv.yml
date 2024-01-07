@@ -55,25 +55,25 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Outstanding Achievers Award in recognition of outstanding achievements in research in the graduating class of 2023.
+    - year: 2022
       items: 
-        - Max Planck Medal
+        - Silver medal in AGRANI 2022 organized by the Network of Organizations for Science & Technology Communication (NOSTC).
+        - Winner of Innoskill 2022 organized by Manav Rachna Educational Institutions.
 
-- title: Academic Interests
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    # - title: Topic 1.
       items: 
         - Description 1.
         - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    # - title: Topic 2.
+    #   items:
+    #     - Description 1.
+    #     - Description 2.
 
 - title: Other Interests
   type: list
