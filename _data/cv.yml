@@ -63,10 +63,10 @@
         - Silver medal in AGRANI 2022 organized by the Network of Organizations for Science & Technology Communication (NOSTC).
         - Winner of Innoskill 2022 organized by Manav Rachna Educational Institutions.
 
-- title: Technical Skills
+- title: Skills
   type: nested_list
   contents:
-    # - title: Topic 1.
+    - title: Technical Skills.
       items: 
         - Languages - Python, C, Solidity, JavaScript
         - Frameworks - NodeJS, ReactJS, Web3JS, Django
