@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Vice President - Blockchain Innovation. <a href='https://www.aiw.works/'>AIW Works Pvt. Ltd.</a>.
 
