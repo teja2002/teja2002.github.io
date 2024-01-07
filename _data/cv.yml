@@ -51,6 +51,15 @@
       - Integrated CNN architectures to effectively extract features from input images. Employed sequential models for generating coherent and contextually relevant captions.
       - Contributed to enhancing the overall user experience by providing detailed and accurate image descriptions.
 
+    - title: Neural Machine Translation 
+      # year: 2015-now
+      description: 
+      - Developed and implemented a Neural Machine Translation model utilizing a sequence-to-sequence transformer.
+      - Achieved accurate and nuanced Portuguese-to-English translations, demonstrating proficiency in leveraging cutting-edge transformer architectures for language processing.
+      - Demonstrated proficiency in both convolutional and sequential neural network architectures, contributing to advancements in language translation technologies.
+
+      
+
 
 - title: Honors and Awards
   type: time_table
