@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - teja2002
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - teja2002/image_captioning
+  - teja2002/language-translatioin
+  - teja2002/wine-quality
+  - teja2002/dogs-vs-cats
+  - teja2002/lane-line-detection
+  - teja2002/face_recognition-in-real-time
+  - teja2002/energy-efficiency
