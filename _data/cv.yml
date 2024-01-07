@@ -66,15 +66,15 @@
 - title: Skills
   type: nested_list
   contents:
-    - title: Technical Skills.
+    - title: Technical Skills
       items: 
-        - Languages - Python, C, Solidity, JavaScript
-        - Frameworks - NodeJS, ReactJS, Web3JS, Django
-        - DevOps Tools - Jenkins, Docker, Kubernetes, Digital Ocean, Selenium
-        - Machine Learning Frameworks - TensorFlow, Keras, PyTorch
-        - Version Control - Git
-        - Operating Systems: Linux and Windows
-        - Other Skills: Agile Methodology, Process Planning, Project Management 
+        - <u>Languages:</u> Python, C, Solidity, JavaScript
+        - <u>Frameworks:</u> NodeJS, ReactJS, Web3JS, Django
+        - <u>DevOps Tools:</u> Jenkins, Docker, Kubernetes, Digital Ocean, Selenium
+        - <u>Machine Learning Frameworks:</u> TensorFlow, Keras, PyTorch
+        - <u>Version Control:</u> Git
+        - <u>Operating Systems:</u> Linux and Windows
+        - <u>Other Skills:</u> Agile Methodology, Process Planning, Project Management 
     # - title: Topic 2.
     #   items:
     #     - Description 1.
@@ -83,4 +83,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Chess, Music, Traveling.
