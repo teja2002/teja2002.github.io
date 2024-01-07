@@ -68,8 +68,13 @@
   contents:
     # - title: Topic 1.
       items: 
-        - Description 1.
-        - Description 2.
+        - Languages - Python, C, Solidity, JavaScript
+        - Frameworks - NodeJS, ReactJS, Web3JS, Django
+        - DevOps Tools - Jenkins, Docker, Kubernetes, Digital Ocean, Selenium
+        - Machine Learning Frameworks - TensorFlow, Keras, PyTorch
+        - Version Control - Git
+        - Operating Systems: Linux and Windows
+        - Other Skills: Agile Methodology, Process Planning, Project Management 
     # - title: Topic 2.
     #   items:
     #     - Description 1.
